@@ -1,0 +1,13 @@
+F:\User_Registration\User_Registration\bin\Debug\netcoreapp3.1\User_Registration.exe
+F:\User_Registration\User_Registration\bin\Debug\netcoreapp3.1\User_Registration.deps.json
+F:\User_Registration\User_Registration\bin\Debug\netcoreapp3.1\User_Registration.runtimeconfig.json
+F:\User_Registration\User_Registration\bin\Debug\netcoreapp3.1\User_Registration.runtimeconfig.dev.json
+F:\User_Registration\User_Registration\bin\Debug\netcoreapp3.1\User_Registration.dll
+F:\User_Registration\User_Registration\bin\Debug\netcoreapp3.1\User_Registration.pdb
+F:\User_Registration\User_Registration\obj\Debug\netcoreapp3.1\User_Registration.csprojAssemblyReference.cache
+F:\User_Registration\User_Registration\obj\Debug\netcoreapp3.1\User_Registration.AssemblyInfoInputs.cache
+F:\User_Registration\User_Registration\obj\Debug\netcoreapp3.1\User_Registration.AssemblyInfo.cs
+F:\User_Registration\User_Registration\obj\Debug\netcoreapp3.1\User_Registration.csproj.CoreCompileInputs.cache
+F:\User_Registration\User_Registration\obj\Debug\netcoreapp3.1\User_Registration.dll
+F:\User_Registration\User_Registration\obj\Debug\netcoreapp3.1\User_Registration.pdb
+F:\User_Registration\User_Registration\obj\Debug\netcoreapp3.1\User_Registration.genruntimeconfig.cache

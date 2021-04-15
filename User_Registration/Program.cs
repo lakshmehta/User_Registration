@@ -6,7 +6,14 @@ namespace User_Registration
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to registration form regex apllication by Laksh Mehta");
+            Validation regexValidation = new Validation();
+            Console.Write("Enter Your First Name::-");
+            string FirstName = Console.ReadLine();
+            Console.WriteLine(regexValidation.ValidateFirstName(FirstName));
+            Console.Write("Enter Your Last Name:-");
+            string LastName = Console.ReadLine();
+            Console.WriteLine(regexValidation.ValidateLastName(LastName));
         }
     }
 }
